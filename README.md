@@ -12,6 +12,8 @@ Python 3.10 ou supérieur avec Tkinter. Depuis la racine : `python -m server.app
 
 ## Contributions
 
+Tous les projets de ce portfolio ont été réalisés en équipe, selon la précision de Massamba Sarre.
+
 Travail d’équipe. Le rapport attribue à Massamba Sarre la réalisation de l’interface utilisateur ; le serveur et la base ne lui sont pas attribués individuellement.
 
 ## État et limites
